@@ -1,0 +1,30 @@
+_repo: Das-heilige-Donnerwetter.-Ein-Bl-cherroman_39650
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39650-tei/images/cover.jpg
+creator:
+  author:
+    agent_name: Paul, Adolf
+    aliases:
+    - Paul, A. (Adolf)
+    - Paul, Adolf Georg
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '40131'
+    url: http://www.gutenberg.org/2009/agents/40131
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2012-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39650'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PT'
+title: Das heilige Donnerwetter. Ein Blücherroman
+url: http://www.gutenberg.org/ebooks/39650
